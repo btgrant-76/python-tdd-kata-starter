@@ -3,7 +3,6 @@ colorama==0.4.4
 coverage==5.3
 docopt==0.6.2
 iniconfig==1.1.1
-mockito==1.2.2
 packaging==20.4
 pathtools==0.1.2
 pluggy==0.13.1
@@ -11,7 +10,7 @@ py==1.9.0
 pyparsing==2.4.7
 pytest==6.1.2
 pytest-cov==2.10.1
-pytest-mockito==0.0.4
+pytest-pythonpath==0.7.3
 pytest-watch==4.2.0
 six==1.15.0
 toml==0.10.1
